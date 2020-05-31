@@ -1,4 +1,4 @@
-#KMeans-and-DBSCAN-Clustering-on-Carbohydrate-Amount-in-CGM-Timeseries-Data-and-Validation-using-KNN
+# KMeans-and-DBSCAN-Clustering-on-Carbohydrate-Amount-in-CGM-Timeseries-Data-and-Validation-using-KNN
 
 Given: 	Meal Data of 5 subjects
 Amount of carbohydrates in each meal
